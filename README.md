@@ -1,4 +1,4 @@
-# No-Mad
+![NoMAD](nomad/assets/logo.png)
 
 ## Project Overview
 
