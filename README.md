@@ -1,3 +1,5 @@
+# No Mad
+
 ![NoMAD](nomad/assets/logo.png)
 
 ## Project Overview
@@ -15,24 +17,23 @@ In the application you could sign up/ login with google, have a profile picture,
 
 ### This section is for the links I used to create this project
 
-- https://stackoverflow.com/questions/70997381flutter-error-no-named-parameter-with-the-name-displaylarge
-- https://pub.dev/packages/animated_bottom_navigation_bar/example
-- https://pub.dev/packages/google_sign_in/example
-- https://pub.dev/packages/firebase_auth/example
-- https://pub.dev/packages/cloud_firestore/example
-- https://pub.dev/packages/firebase_storage/example
-- https://pub.dev/packages/image_cropper/versions/1.5.0/example
-- https://pub.dev/packages/image_picker/example
+- <https://stackoverflow.com/questions/70997381flutter-error-no-named-parameter-with-the-name-displaylarge>
+- <https://pub.dev/packages/animated_bottom_navigation_bar/example>
+- <https://pub.dev/packages/google_sign_in/example>
+- <https://pub.dev/packages/firebase_auth/example>
+- <https://pub.dev/packages/cloud_firestore/example>
+- <https://pub.dev/packages/firebase_storage/example>
+- <https://pub.dev/packages/image_cropper/versions/1.5.0/example>
+- <https://pub.dev/packages/image_picker/example>
 
 ### Videos
 
-- https://www.youtube.com/watch?v=Mt41FpSS-Vo
-- https://www.youtube.com/watch?v=dBbYVNoFxkM
-- https://www.youtube.com/watch?v=E5WgU6ERZzA
+- <https://www.youtube.com/watch?v=Mt41FpSS-Vo>
+- <https://www.youtube.com/watch?v=dBbYVNoFxkM>
+- <https://www.youtube.com/watch?v=E5WgU6ERZzA>
 
 - **Dixons Videos**
-- https://www.youtube.com/@JohannesMilke 
-
+- <https://www.youtube.com/@JohannesMilke>
 
 ## Homepage
 
