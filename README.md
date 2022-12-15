@@ -33,3 +33,11 @@ In the application you could sign up/ login with google, have a profile picture,
 - **Dixons Videos**
 - https://www.youtube.com/@JohannesMilke 
 
+
+## Homepage
+
+![NoMAD](nomad/assets/homepage.png)
+
+## Profile Page
+
+![NoMAD](nomad/assets/profilePage.png)
