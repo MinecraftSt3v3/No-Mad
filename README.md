@@ -26,14 +26,6 @@ In the application you could sign up/ login with google, have a profile picture,
 - <https://pub.dev/packages/image_cropper/versions/1.5.0/example>
 - <https://pub.dev/packages/image_picker/example>
 
-### Videos
-
-- <https://www.youtube.com/watch?v=Mt41FpSS-Vo>
-- <https://www.youtube.com/watch?v=dBbYVNoFxkM>
-- <https://www.youtube.com/watch?v=E5WgU6ERZzA>
-
-- **Dixons Videos**
-- <https://www.youtube.com/@JohannesMilke>
 
 ## Homepage
 
